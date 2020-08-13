@@ -1,7 +1,13 @@
+.box{
+	background-color: red;
+	width: 83%;
+}
+
 .tg  {
 	border-collapse:collapse;
 	border-color:#aaa;
 	border-spacing:0;
+	width: 75%;
 }
 .tg td{
 	background-color:#fff;
@@ -10,9 +16,9 @@
 	border-width:1px;
 	color:#333;
 	font-family:Arial, sans-serif;
-	font-size:14px;
+	font-size:18px;
 	overflow:hidden;
-	padding:10px 5px;
+	padding:1px 5px;
 	word-break:normal;
 }
 

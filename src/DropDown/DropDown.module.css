@@ -1,0 +1,67 @@
+/* The sidebar menu */
+.sidebar {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  right: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.2s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+.sidebar select {
+  padding: 0.1vw;
+  text-decoration: none;
+  font-size: 4vh;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  width: 15vw;
+  height: 5vh;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 100px;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+.sidebar button {
+  background-color:gray;
+  border: none;
+  color: black;
+  padding : 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+.main {
+  transition: margin-left .3s; /* If you want a transition effect */
+  margin-top: 10px; 
+  padding-left: 95.5%;
+  border-radius: 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
