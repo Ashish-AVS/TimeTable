@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Time-Table/static/css/main.025b0cc5.chunk.css",
+    "main.js": "/Time-Table/static/js/main.6c5c08e2.chunk.js",
+    "main.js.map": "/Time-Table/static/js/main.6c5c08e2.chunk.js.map",
+    "runtime-main.js": "/Time-Table/static/js/runtime-main.fbbd17bc.js",
+    "runtime-main.js.map": "/Time-Table/static/js/runtime-main.fbbd17bc.js.map",
+    "static/js/2.e76fe38b.chunk.js": "/Time-Table/static/js/2.e76fe38b.chunk.js",
+    "static/js/2.e76fe38b.chunk.js.map": "/Time-Table/static/js/2.e76fe38b.chunk.js.map",
+    "index.html": "/Time-Table/index.html",
+    "precache-manifest.5a7aa6b4d1464e32774c0614726358e9.js": "/Time-Table/precache-manifest.5a7aa6b4d1464e32774c0614726358e9.js",
+    "service-worker.js": "/Time-Table/service-worker.js",
+    "static/css/main.025b0cc5.chunk.css.map": "/Time-Table/static/css/main.025b0cc5.chunk.css.map",
+    "static/js/2.e76fe38b.chunk.js.LICENSE.txt": "/Time-Table/static/js/2.e76fe38b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbbd17bc.js",
+    "static/js/2.e76fe38b.chunk.js",
+    "static/css/main.025b0cc5.chunk.css",
+    "static/js/main.6c5c08e2.chunk.js"
+  ]
+}
