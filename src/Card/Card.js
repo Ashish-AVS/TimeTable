@@ -1,11 +1,14 @@
 import React from 'react';
 import classes from './Card.module.css';
+import meetLinks from '../MeetLinks/MeetLinks';
 
 const Card = (props) => {
+	let newCode=props.code;
+
 	return(
 		<div className={classes.card}>
 			<div>
-				{props.code}
+				<a href={meetLinks[newCode]}>{props.displayCode}</a>
 			</div>
 			<div>
 				{props.sub}

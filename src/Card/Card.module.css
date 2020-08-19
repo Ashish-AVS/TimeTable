@@ -1,5 +1,21 @@
-.card{
-	background-color: lightgreen;
-	font-size: 18px;
-	padding: 12px;
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.card {
+	height: 90px;
+	width: 120px;
+	background-color: #b6d192;
+	font-family: Verdana,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(25,25,112);
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 1px;
+    display: block;
+	white-space: nowrap;
+	cursor: pointer;
 }

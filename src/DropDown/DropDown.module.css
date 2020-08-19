@@ -8,14 +8,14 @@
   right: 0;
   background-color: #111; /* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
+  /* padding-top: 60px; Place content 60px from the top */
   transition: 0.2s; /* 0.5 second transition effect to slide in the sidebar */
 }
 
 .sidebar select {
-  padding: 0.1vw;
+  padding: 0.5vw;
   text-decoration: none;
-  font-size: 4vh;
+  font-size: 2vh;
   color: #818181;
   display: block;
   transition: 0.3s;
@@ -35,8 +35,17 @@
 .openbtn:hover {
   background-color: #444;
 }
-
-.sidebar button {
+.closeopt{
+  position: relative;
+  margin-left: 70%;
+  margin-top: 5%;
+  border-radius: 1000px;
+  margin-bottom: 60px;
+  font-size: 13px;
+  height: 4em;
+  width: 4em;
+}
+.closebtn {
   background-color:gray;
   border: none;
   color: black;
@@ -51,7 +60,6 @@
   border-radius: 8px;
   
 }
-
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
 .main {
   transition: margin-left .3s; /* If you want a transition effect */

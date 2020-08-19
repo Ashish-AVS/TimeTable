@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import classes from './DropDown.module.css';
 import MiniCard from '../Mini-Card/MiniCard';
+import SelectTag from './SelectTag/SelectTag';
 
 class DropDown extends Component {
 	state = {
@@ -25,27 +26,11 @@ class DropDown extends Component {
 			<div>
 				<div style={{width:this.state.width}} className={classes.sidebar}>
 					<div>
+						<div>
+							<button className={classes.closeopt} onClick={this.closeNav}>X</button>
+						</div>
 						<form>
-							<div>
-								<select>
-									<option value="1">1</option>
-								</select>
-							</div>
-							<div>
-								<select>
-									<option value="1">1</option>
-								</select>
-							</div>
-							<div>
-								<select>
-									<option value="1">1</option>
-								</select>
-							</div>
-							<div>
-								<select>
-									<option value="1">1</option>
-								</select>
-							</div>
+								<SelectTag />
 						</form>
 					</div>
 					<div>
