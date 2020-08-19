@@ -1,5 +1,5 @@
 const meetLinks={
-	PHYF212L:"https://www.google.com",
+	PHYF212L:"https://meet.google.com/wrp-yxye-smo",
 	PHYF212T:"https://www.google.com",
 
 	CHEMF211L:"https://meet.google.com/ecp-vymi-hsr",
@@ -14,11 +14,11 @@ const meetLinks={
 	CHEMF214L:"https://meet.google.com/ixc-vauz-dsu",
 	CHEMF214T:"https://meet.google.com/ixc-vauz-dsu",
 
-	MATHF211L:"https://www.google.com",
-	MATHF211T:"https://www.google.com",
+	MATHF211L:"https://meet.google.com/rio-yepr-cmc",
+	MATHF211T:"https://meet.google.com/tob-dubi-ore",
 
-	HSSF334L:"https://www.google.com",
-	BITSF214L:"https://www.google.com",
+	HSSF334L:"https://meet.google.com/wrp-yxye-smo",
+	BITSF214L:"https://meet.google.com/pru-rahi-ync",
 	_:"#"
 }
 
