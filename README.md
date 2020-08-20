@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project is hosted on GitHub Pages in this Link: (https://ashish-avs.github.io/Time-Table/). 
+
 Feel free to suggest/contribute to this project :)
 
 ## Available Scripts
