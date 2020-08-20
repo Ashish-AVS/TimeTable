@@ -1,5 +1,5 @@
 const meetLinks={
-	PHYF212L:"https://meet.google.com/wrp-yxye-smo",
+	PHYF212L:"https://meet.google.com/epp-ozhv-ozf",
 	PHYF212T:"https://www.google.com",
 
 	CHEMF211L:"https://meet.google.com/ecp-vymi-hsr",
