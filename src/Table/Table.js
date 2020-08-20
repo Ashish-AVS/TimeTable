@@ -11,22 +11,22 @@ class Table extends Component {
         <table className={classes.tg}>
           <thead>
             <tr>
-              <th className={classes.tgFuxe}>Period</th>
-              <th className={classes.tgFuxe}>1</th>
-              <th className={classes.tgFuxe}>2</th>
-              <th className={classes.tgFuxe}>3</th>
-              <th className={classes.tgFuxe}>4</th>
-              <th className={classes.tgFuxe}>5</th>
-              <th className={classes.tgFuxe}>6</th>
-              <th className={classes.tgFuxe}>7</th>
-              <th className={classes.tgFuxe}>8</th>
-              <th className={classes.tgFuxe}>9</th>
+              <th className={classes.heading}>Period</th>
+              <th className={classes.heading}>8-9<br />1</th>
+              <th className={classes.heading}>9-10<br />2</th>
+              <th className={classes.heading}>10-11<br />3</th>
+              <th className={classes.heading}>11-12<br />4</th>
+              <th className={classes.heading}>12-1<br />5</th>
+              <th className={classes.heading}>1-2<br />6</th>
+              <th className={classes.heading}>2-3<br />7</th>
+              <th className={classes.heading}>3-4<br />8</th>
+              <th className={classes.heading}>4-5<br />9</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td className={classes.tgKp8h}>Monday</td>
-              <td className={classes.tgKp8h}><Card /></td>
+              <td className={classes.tgKp8h}><Card displayCode="_" code="_"/></td>
               <td className={classes.tgKp8h}><Card displayCode="CHEM F213" code="CHEMF213L" sub="ORGANIC" type="L1" /></td>
               <td className={classes.tgKp8h}><Card displayCode="CHEM F212" code="CHEMF212L" sub="INORGANIC" type="L1" /></td>
               <td className={classes.tgKp8h}><Card displayCode="HSS F334" code="HSSF334L" sub="GITA" type="L1" /></td>
