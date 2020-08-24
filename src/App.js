@@ -11,7 +11,7 @@ class App extends Component {
     return(
       <div>
         {/* <DropDown /> */}
-        <Table />
+        <Table display="Light"/>
       </div>
     );
   }

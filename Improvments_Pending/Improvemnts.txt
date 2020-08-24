@@ -1,0 +1,13 @@
+## Saturday
+# Update Names
+# Alternate Version with Days and Time inversed.
+
+## Saturday
+# Add Resources Section
+# Add a theme, header, footer
+
+## Saturday
+# Connect to firebase
+# Implement Login using BITSMAIL
+# New Route to edit the time-table and personalise for all courses
+
