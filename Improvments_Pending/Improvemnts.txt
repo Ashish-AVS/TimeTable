@@ -11,3 +11,4 @@
 # Implement Login using BITSMAIL
 # New Route to edit the time-table and personalise for all courses
 
+#npm run deploy

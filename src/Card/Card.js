@@ -1,6 +1,7 @@
 import React from 'react';
 import classes from './Card.module.css';
-import meetLinks from '../MeetLinks/MeetLinks';
+import meetLinks from '../Links/MeetLinks';
+import DriveLinks from '../Links/DriveLinks';
 
 const Card = (props) => {
 	let newCode=props.code;
@@ -11,7 +12,7 @@ const Card = (props) => {
 				<a href={meetLinks[newCode]}>{props.displayCode}</a>
 			</div>
 			<div>
-				{props.sub}
+				<a href={DriveLinks[newCode]}>{props.sub}</a>
 			</div>
 			<div>
 				{props.type}
