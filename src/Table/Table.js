@@ -35,19 +35,19 @@ class Table extends Component {
                 <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="CHEM F213" code="CHEMF213T" sub="PC-II" type="T1" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
               </tr>
               <tr>
                 <td className={classes.tgFuxe}>Tuesday</td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                <td className={classes.tgFuxe}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="T6" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="T3" /></td>
               </tr>
               <tr>
                 <td className={classes.tgKp8h}>Wednesday</td>
@@ -59,14 +59,14 @@ class Table extends Component {
                 <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
               </tr>
               <tr>
                 <td className={classes.tgFuxe}>Thursday</td>
                 <td className={classes.tgFuxe}><Card displayCode="CHEM F214" code="CHEMF214T" sub="INORGANIC" type="T1" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
@@ -83,14 +83,14 @@ class Table extends Component {
                 <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
               </tr>
               <tr>
                 <td className={classes.tgFuxe}>Saturday</td>
-                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212T" sub="EMT" type="T3" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212T" sub="EMT" type="T2" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
@@ -132,19 +132,19 @@ class Table extends Component {
                   <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="CHEM F213" code="CHEMF213T" sub="PC-II" type="T1" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
                 </tr>
                 <tr>
                   <td className={classes.tgFuxe}>Tuesday</td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                  <td className={classes.tgFuxe}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="T6" /></td>
+                  <td className={classes.tgFuxe}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="T3" /></td>
                 </tr>
                 <tr>
                   <td className={classes.tgKp8h}>Wednesday</td>
@@ -156,14 +156,14 @@ class Table extends Component {
                   <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
                 </tr>
                 <tr>
                   <td className={classes.tgFuxe}>Thursday</td>
                   <td className={classes.tgFuxe}><Card displayCode="CHEM F214" code="CHEMF214T" sub="INORGANIC" type="T1" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
@@ -180,14 +180,14 @@ class Table extends Component {
                   <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgKp8h}><Card displayCode="CHEM F214" code="CHEMF214L" sub="INORGANIC" type="L1" /></td>
-                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L6" /></td>
+                  <td className={classes.tgKp8h}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="L3" /></td>
                 </tr>
                 <tr>
                   <td className={classes.tgFuxe}>Saturday</td>
-                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212T" sub="EMT" type="T3" /></td>
+                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212T" sub="EMT" type="T2" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L3" /></td>
+                  <td className={classes.tgFuxe}><Card displayCode="PHY F212" code="PHYF212L" sub="EMT" type="L2" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="CHEM F211" code="CHEMF211L" sub="PC-I" type="L1" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                   <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
