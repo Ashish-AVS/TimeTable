@@ -47,7 +47,7 @@ class Table extends Component {
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
                 <td className={classes.tgFuxe}><Card displayCode="_" code="_" /></td>
-                <td className={classes.tgFuxe}><Card displayCode="MATH F211" code="MATHF211L" sub="M-3" type="T3" /></td>
+                <td className={classes.tgFuxe}><Card displayCode="MATH F211*" code="MATHF211T" sub="M-3" type="T3" /></td>
               </tr>
               <tr>
                 <td className={classes.tgKp8h}>Wednesday</td>

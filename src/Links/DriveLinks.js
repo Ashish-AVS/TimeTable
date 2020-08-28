@@ -15,7 +15,7 @@ const driveLinks = {
 	CHEMF214T: "https://drive.google.com/drive/folders/0BxP7SK74c9ZnS041bUtyd0U3T1U?usp=sharing",
 
 	MATHF211L: "https://drive.google.com/drive/folders/18FM0ZvC7trzqjIySACdMRKlJMdxeP0wP?usp=sharing",
-	MATHF211T: "https://drive.google.com/drive/folders/18FM0ZvC7trzqjIySACdMRKlJMdxeP0wP?usp=sharing",
+	MATHF211T: "https://drive.google.com/drive/folders/1m2k25_jiDNGnv-hFgCjeihTKVbKB4_v5?usp=sharing",
 
 	HSSF334L: "#",
 	BITSF214L: "#",
