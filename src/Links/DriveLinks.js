@@ -17,8 +17,8 @@ const driveLinks = {
 	MATHF211L: "https://drive.google.com/drive/folders/18FM0ZvC7trzqjIySACdMRKlJMdxeP0wP?usp=sharing",
 	MATHF211T: "https://drive.google.com/drive/folders/1m2k25_jiDNGnv-hFgCjeihTKVbKB4_v5?usp=sharing",
 
-	HSSF334L: "#",
-	BITSF214L: "#",
+	HSSF334L: "https://www.marvel.com/404",
+	BITSF214L: "https://www.marvel.com/404",
 	_: "#"
 }
 

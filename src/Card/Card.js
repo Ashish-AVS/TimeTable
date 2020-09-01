@@ -9,10 +9,10 @@ const Card = (props) => {
 	return(
 		<div className={classes.card}>
 			<div>
-				<a href={meetLinks[newCode]}>{props.displayCode}</a>
+				<a target="_blank" href={meetLinks[newCode]}>{props.displayCode}</a>
 			</div>
 			<div>
-				<a href={DriveLinks[newCode]}>{props.sub}</a>
+				<a target="_blank" href={DriveLinks[newCode]}>{props.sub}</a>
 			</div>
 			<div>
 				{props.type}
