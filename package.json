@@ -2,7 +2,7 @@
   "name": "time-table",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ashish-AVS.github.io/Time-Table",
+  "homepage": "http://Ashish-AVS.github.io/TimeTable",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
