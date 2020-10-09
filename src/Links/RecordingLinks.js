@@ -1,6 +1,6 @@
 const recordingLinks = {
-	PHYF212L: "https://drive.google.com/drive/folders/1S91anEkPbezyt485klncpAYNnNDppdI5?usp=sharing",
-	PHYF212T: "https://drive.google.com/drive/folders/1S91anEkPbezyt485klncpAYNnNDppdI5?usp=sharing",
+	PHYF212L: "https://drive.google.com/drive/folders/1wA9T8Olhcqu_LirhdOpYbKfkZte8fgLm?usp=sharing",
+	PHYF212T: "https://drive.google.com/drive/folders/1wA9T8Olhcqu_LirhdOpYbKfkZte8fgLm?usp=sharing",
 
 	CHEMF211L: "https://drive.google.com/drive/folders/1syCmSZoCPzv_rwkeaCVPv8qvr4UDxU1K?usp=sharing", //Alt
 	CHEMF211T: "https://drive.google.com/drive/folders/0BxP7SK74c9Znd0pfcUZGVWJtTEk?usp=sharing",
