@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Table from './Table/Table';
 import DropDown from './DropDown/DropDown';
-import Switch from "./Switch/Switch";
+import Switch from "./Switch";
 
 class App extends Component {
   state = {
