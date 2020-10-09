@@ -1,6 +1,6 @@
 const meetLinks={
-	PHYF212L:"https://meet.google.com/lookup/f32mfjed5n",
-	PHYF212T:"https://meet.google.com/lookup/f32mfjed5n",
+	PHYF212L:"https://classroom.google.com/u/0/c/MTIyOTIwOTIyMzY4",
+	PHYF212T:"https://classroom.google.com/u/0/c/MTIyOTIwOTIyMzY4",
 
 	CHEMF211L:"https://meet.google.com/ecp-vymi-hsr",
 	CHEMF211T:"https://meet.google.com/ecp-vymi-hsr",
