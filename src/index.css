@@ -3,6 +3,11 @@ body {
   padding: 0;
   background-color: #202021;
 }
+.switch {
+  position: absolute;
+  right: 0;
+  margin: 1.5% 2.5%;
+}
 #head {
   text-align: center;
   color: aliceblue;
