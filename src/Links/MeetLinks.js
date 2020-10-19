@@ -14,8 +14,8 @@ const meetLinks={
 	CHEMF214L:"https://meet.google.com/ixc-vauz-dsu",
 	CHEMF214T:"https://meet.google.com/ixc-vauz-dsu",
 
-	MATHF211L:"https://meet.google.com/rio-yepr-cmc",
-	MATHF211T:"https://meet.google.com/tob-dubi-ore",
+	MATHF211L:"https://meet.google.com/pzj-dbdh-jmr",
+	MATHF211T:"https://meet.google.com/pzj-dbdh-jmr",
 
 	HSSF334L:"https://meet.google.com/wrp-yxye-smo",
 	BITSF214L:"https://meet.google.com/pru-rahi-ync",
