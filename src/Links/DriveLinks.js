@@ -2,10 +2,10 @@ const driveLinks = {
 	PHYF212L: "https://drive.google.com/drive/folders/1wA9T8Olhcqu_LirhdOpYbKfkZte8fgLm?usp=sharing",
 	PHYF212T: "https://drive.google.com/drive/folders/1S91anEkPbezyt485klncpAYNnNDppdI5?usp=sharing",
 
-	CHEMF211L: "https://drive.google.com/drive/folders/1gQs_2iuF-S9xNIZGdC534--BxcMemgNM?usp=sharing", //Alt
+	CHEMF211L: "https://drive.google.com/drive/folders/1buF8U-rLbCg8TU4Tj_hlt7sX8EwTrp1R?usp=sharing", //Alt
 	CHEMF211T: "https://drive.google.com/drive/folders/0BxP7SK74c9Znd0pfcUZGVWJtTEk?usp=sharing",
 
-	CHEMF212L: "https://drive.google.com/drive/folders/1DgHTgsaKLvIOLq6u6jVg993MwD0Y3Zva?usp=sharing",//Alt
+	CHEMF212L: "https://drive.google.com/drive/folders/1gQs_2iuF-S9xNIZGdC534--BxcMemgNM?usp=sharing",//Alt
 	CHEMF212T: "https://drive.google.com/drive/folders/0BxP7SK74c9ZnYW9fR2ViaS1USDg?usp=sharing",
 
 	CHEMF213L: "https://drive.google.com/drive/folders/0BwEQ4eqI4VeSfmc0Y18yTDBXUDAydm1hRVB3aXNaY0JoWkFrcnIxejNLOExTMkdVOVU3U3c",//Alt
